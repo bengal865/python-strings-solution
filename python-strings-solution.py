@@ -23,7 +23,6 @@ age = int(input('Enter your age: (Example: 21)\n'))
 print(f"The user's age is: ${age)")
 
 # Converting to upper- and lowercase characters using `upper()` and `lower()` methods
-
 user_last_name = input('Please enter your last name in all lowercase characters: (Example: smith)\n').upper()
 print(f'Your last name is: {user_last_name}')
 
